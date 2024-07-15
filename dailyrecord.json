@@ -1,0 +1,18 @@
+"employee_records": [
+  {
+    "employee_id": "E12345",
+    "first_name": "Ko",
+    "last_name": "Latt",
+    "age": 39,
+    "department": "Trainer"
+  }
+  },
+  {
+    "employee_id": "E12345",
+    "first_name": "Bo",
+    "last_name": "Htwe",
+    "age": 24,
+    "department": "RealEstate"
+  }
+  }
+]
